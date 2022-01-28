@@ -1,0 +1,18 @@
+Investigations:Results:Reference range
+White blood cell count:00.00:4.00-10.00109/L
+Hemoglobin:00.00:13.5-17.0 g/dL
+Creatinine:00.00:0.70-1.2 mg/dL
+Potassium:00.00:3.5-5.1 mMol/L
+Fasting glucose:00.00:60-100 mg/dL
+Total bilirubin:00.00:<1.2 mg/dL
+Alanine aminotransferase:00.00:<41 U/L
+Albumin:00.00:35-50 g/L
+Prostate specific antigen (PSA):00.00:<4.114g/L
+Chromogranin A (CGA):00.00:<12014g/L
+Plasma ACTH:00.00:7.2-63.3 ng/L
+Plasma cortisol:00.00:62-180 pig/L
+Salivary cortisol:00.00:<2.114g/L
+Testosterone:00.00:4.6-31 nmoli/L
+Phosphate:00.00:2.7-4.5 mg/dL
+Calcium:00.00:8.6-10.2 mg/dL
+Calcitonin:00.00:<20 ng/dL

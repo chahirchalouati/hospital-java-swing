@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jcalendar-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Nouveau dossier/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Nouveau dossier/javax.mail-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Nouveau dossier/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Nouveau dossier/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
